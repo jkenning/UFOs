@@ -7,3 +7,16 @@ var tbody = d3.select("tbody");
 // Converted to an arrow function
 addition = (a, b) => a + b;
 doubleAddition = (c, d) => addition(c, d) * 2;
+
+function buildTable(data) {
+    tbody.html("");
+  }
+
+    data.forEach((dataRow) => {
+        let row = tbody.append("tr");
+        Object.values(dataRow).forEach((val) => {
+        let cell = row.append("td");
+        cell.text(val);
+        }
+        );
+    });
