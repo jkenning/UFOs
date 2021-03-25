@@ -32,7 +32,7 @@ Scrolling further down the page reveals the Filter Search box and data table of 
 Figure 2. Filter search boxes and corresponding data table
 
 
-![](https://github.com/jkenning/UFOs/blob/main/Images/webpage_title_article.png)
+![](https://github.com/jkenning/UFOs/blob/main/Images/webpage_filter_demo.png)
 
 Figure 3. Filter search box with example entry and data table filtered to only display a specific entry; in this case all triangle shapes UFOs observed in California. 
 
