@@ -8,7 +8,7 @@ The project involves building a table to hold and display sightings of UFO pheno
 
 ### Purpose
 
-Ultimately the end result is to produce a visually-appealing format to clearly present UFO sightings data that allows users to interact with the visualization and find specific entries in the data table based on a range of tailored criteria, including by date and location. 
+Ultimately, the end result is to produce a visually-appealing format to clearly present UFO sightings data that allows users to interact with the visualization and find specific entries in the data table based on a range of tailored criteria, including by date and location. 
 
 ## Resources
 
@@ -18,23 +18,23 @@ Visual Studio Code 1.54.3
 
 Upon entering the webpage, the user will encounter a navigation bar containing the title of the page. As there is only one page on the site, the navbar is set up to link to back to the webpage and can therefore act as a reset after a filter has been applied to the table. 
 
-Below the navbar is a jumbotron set up to display an image and header for the page. To the right, beneath the jumbotron header is a brief article to set the scene - the article title and sub-title are positioned to the left of the main vbody of text. 
+Below the navbar is a jumbotron set up to display an image and header for the page. To the right, beneath the jumbotron header is a brief article to set the scene - the article title and sub-title are positioned to the left of the main body of text. 
 
 
-![]()
+![](https://github.com/jkenning/UFOs/blob/main/Images/webpage_title_article.png)
 
 Figure 1. Title, image banner, and article for the webpage
 
 Scrolling further down the page reveals the Filter Search box and data table of UFO sighting entries. The Javascript data entries pulled into the html page include criteria for Date, City, State, Country, Shape (of observed UFO), Duration, and Comments, of which the former five are searchable via the filter box to the left. Any of the five searchable date and location criteria can be entered in order to update and only display entries with matching text for those specific criteria in the table. Users can type in a date or location into the relevant filter box and press enter in order to search. More than one filter criteria can be applied to further inspect the data. 
 
-![]()
+![](https://github.com/jkenning/UFOs/blob/main/Images/webpage_filter_table.png)
 
 Figure 2. Filter search boxes and corresponding data table
 
 
-![]()
+![](https://github.com/jkenning/UFOs/blob/main/Images/webpage_title_article.png)
 
-Figure 3. Filter search box with example entry and data table filtered to only display a specific entry
+Figure 3. Filter search box with example entry and data table filtered to only display a specific entry; in this case all triangle shapes UFOs observed in California. 
 
 ## Summary
 
