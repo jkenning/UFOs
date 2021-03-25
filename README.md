@@ -12,7 +12,15 @@ Ultimately, the end result is to produce a visually-appealing format to clearly 
 
 ## Resources
 
-Visual Studio Code 1.54.3
+Software: Visual Studio Code 1.54.3
+
+UFO data: https://github.com/jkenning/UFOs/blob/main/static/js/data.js
+
+App: https://github.com/jkenning/UFOs/blob/main/static/js/app.js
+
+Webpage file: https://github.com/jkenning/UFOs/blob/main/index.html
+
+CSS style: https://github.com/jkenning/UFOs/blob/main/static/css/style.css
 
 ## Results
 
