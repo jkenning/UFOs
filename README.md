@@ -34,11 +34,11 @@ Figure 2. Filter search boxes and corresponding data table
 
 ![](https://github.com/jkenning/UFOs/blob/main/Images/webpage_filter_demo.png)
 
-Figure 3. Filter search box with example entry and data table filtered to only display a specific entry; in this case all triangle shapes UFOs observed in California. 
+Figure 3. Filter search box with example entry and data table filtered to only display a specific entry; in this case all triangle shape UFOs observed in California. 
 
 ## Summary
 
-One limitation is that there are not filters to search for Duration or for keywords in the Comments. While there are multiple levels of specificity for location e.g., country, state, or city, it is currently only possible to search by specific date. It would be useful to be able to search and group the sightings by month and/or year together, even by day of the week.This could also apply for if you wanted to search for Shapes and inclue more than one specific type of entry. This links into another limitation in that the search terms have to match the data entry exactly and cannot be incomplete or mispelled. Entering only part of a city name or getting the name format wrong may mean you do not return the desired data. This would also make the Comments unsearchable for keywords without changing the functionality if this feature were to be added. 
+One limitation is that there are not filters to search for Duration or for keywords in the Comments. While there are multiple levels of specificity for location e.g., country, state, or city, it is currently only possible to search by specific date. It would be useful to be able to search and group the sightings by month and/or year together, even by day of the week.This could also apply for if you wanted to search for Shapes and inclue more than one specific type of entry. This links into another limitation in that the search terms have to match the data entry exactly and cannot be incomplete or mispelled. Entering only part of a city name or getting the name format wrong may mean you do not return the desired data. This would also make the Comments unsearchable for keywords without changing the functionality (if this feature were to be added). 
 
 **Recommendations:**
 
