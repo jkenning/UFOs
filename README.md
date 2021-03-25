@@ -45,7 +45,7 @@ One limitation is that there are not filters to search for Duration or for keywo
 * Add additional search boxes for remaining criteria (currently non-searchable)
 * Convert date format to allow for searches by day, month, year
 * Allow single word or partial text matches (e.g. Comments)
-* Re-design filters to allow more than one unique entry to be displayed/grouped for each criteria at the same time
+* Re-design filters to allow more than one unique entry to be displayed per criteria
 * Set up system to periodically update and pull new data entries from the data source
 * Add convenient search and reset/clear buttons near the search boxes
 
